@@ -1,1 +1,1 @@
-Projetos realizados através da plataforma da DIO.
+Projetos referentes ao Bootcamp Decola Tech 2° Edição.
